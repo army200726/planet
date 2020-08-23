@@ -1,0 +1,17 @@
+body
+{
+	padding: 10px;
+	margin: 40px;
+	font-size: 30px;
+	font-family: Helvetica;
+	background-image: url(https://c.wallhere.com/photos/7b/e5/1920x1080_px_cgi_galaxy_planet_Purple_render_space-669797.jpg!d);
+	background-repeat: no-repeat;
+	background-size: auto;
+	color: rgb(228, 223, 236);
+}
+nav
+{
+    background-color: rgb(42, 201, 180);
+	padding: 0px;
+	color: rgb(15, 9, 66);
+}
